@@ -1,0 +1,11 @@
+h1 {
+    color: purple;
+}
+
+.container {
+    background-color: seashell;
+    width: 50%;
+    margin: auto;
+    border: 2px solid bisque;
+    padding: 20px;
+}
